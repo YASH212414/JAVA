@@ -1,6 +1,7 @@
 # JAVA
 
 Java is a powerful and versatile programming language with a rich history and widespread adoption across various industries and platforms. Here's a comprehensive overview of Java:
+
 **1. Origin and Evolution:**
    - Java was developed by James Gosling and his team at Sun Microsystems in the early 1990s.
    - It was officially released by Sun Microsystems in 1995.
